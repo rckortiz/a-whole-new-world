@@ -1,0 +1,11 @@
+/Users/rick/SDG/week-07/a-whole-new-world/obj/Debug/netcoreapp2.2/a-whole-new-world.csprojAssemblyReference.cache
+/Users/rick/SDG/week-07/a-whole-new-world/obj/Debug/netcoreapp2.2/a-whole-new-world.csproj.CoreCompileInputs.cache
+/Users/rick/SDG/week-07/a-whole-new-world/obj/Debug/netcoreapp2.2/a-whole-new-world.AssemblyInfoInputs.cache
+/Users/rick/SDG/week-07/a-whole-new-world/obj/Debug/netcoreapp2.2/a-whole-new-world.AssemblyInfo.cs
+/Users/rick/SDG/week-07/a-whole-new-world/bin/Debug/netcoreapp2.2/a-whole-new-world.deps.json
+/Users/rick/SDG/week-07/a-whole-new-world/bin/Debug/netcoreapp2.2/a-whole-new-world.runtimeconfig.json
+/Users/rick/SDG/week-07/a-whole-new-world/bin/Debug/netcoreapp2.2/a-whole-new-world.runtimeconfig.dev.json
+/Users/rick/SDG/week-07/a-whole-new-world/bin/Debug/netcoreapp2.2/a-whole-new-world.dll
+/Users/rick/SDG/week-07/a-whole-new-world/bin/Debug/netcoreapp2.2/a-whole-new-world.pdb
+/Users/rick/SDG/week-07/a-whole-new-world/obj/Debug/netcoreapp2.2/a-whole-new-world.dll
+/Users/rick/SDG/week-07/a-whole-new-world/obj/Debug/netcoreapp2.2/a-whole-new-world.pdb
